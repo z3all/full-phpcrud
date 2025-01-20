@@ -157,7 +157,7 @@ if (isset($_POST['filter'])) {
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            
+
                                             <?php foreach ($data_barang as $barang) : ?>
                                                 <tr>
                                                     <td><?= $awalData += 1; ?></td>

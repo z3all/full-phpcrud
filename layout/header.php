@@ -52,10 +52,7 @@ include 'config/app.php';
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
-            <a href="#" class="brand-link">
-                <img src="assets/img/php.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-1" style="opacity: .8">
-                <span class="brand-text font-weight-light"><small>PHP CURD</small></span>
-            </a>
+           
 
             <!-- Sidebar -->
             <div class="sidebar">
@@ -90,7 +87,7 @@ include 'config/app.php';
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="Pegawai.php" class="nav-link">
+                            <a href="pegawai.php" class="nav-link">
                                 <i class="nav-icon fas fa-users"></i>
                                 <p>
                                     Data Pegawai 
